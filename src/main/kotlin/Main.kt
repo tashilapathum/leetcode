@@ -1,3 +1,3 @@
-fun main(args: Array<String>) {
-    TwoSum.solution(intArrayOf(3,3), 6)
+fun main() {
+    print(PalindromeNumber.solution(123))
 }
